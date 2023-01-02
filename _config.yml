@@ -1,0 +1,12 @@
+title: My LIS786 Project
+theme: minima
+collections:
+  collection:
+    output: true
+
+
+defaults:
+  - scope:
+      type: "collection"
+    values:
+      layout: collection_item
