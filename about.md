@@ -2,7 +2,7 @@
 title: About
 layout: default
 ---
-This is an example of a file written in (Markdown)[https://daringfireball.net/projects/markdown/]. Notice how
+This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
 this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
 
 ## This is what an h2 element looks like in Markdown
