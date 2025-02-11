@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: New Guest
 permalink: /about
 ---
 This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
