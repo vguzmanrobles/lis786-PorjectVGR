@@ -1,12 +1,12 @@
 title: Sweet Violet's Salon
 theme: minima
 collections:
-  collection:
+  hairs:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "hairs"
     values:
-      layout: collection_item
+      layout: hair

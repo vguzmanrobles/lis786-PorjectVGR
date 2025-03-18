@@ -2,10 +2,24 @@
 title: Welcome
 layout: home
 ---
-<h1>Welcome!</h1>
+
 <h2>This is Violet's Sweet Salon. Violet loves to do other peoples hair. She is a hairstylist with a passion of 
     making sure that you good great and you get the hair you like</h2>
 <p>Hello! If you are a new guest, please visit the New Guest section arrange a appointment and consultion!</p>
 <p><img src="https://i.redd.it/hello-hair-question-has-anyone-died-their-hair-a-midnight-v0-zabrwd27cxda1.jpg?width=624&format=pjpg&auto=webp&s=dc59e55c645625f6ee0bb52b390bfec7eb9e5948" alt="blue hair" height="200"> </p>
+
+
+<h2>List of hair cuts</h2>
+{% for hair in site.hairs  %}
+<!-- DO SOMETHING -->
+<h3>{{ hair.title}}</h3>
+<p>
+    <img src="{{hair.image}}" alt="alt text">
+</p>
+<p>{{hair.content}}</p>
+<p>Category: {{hair.category}}</p>
+
+{% endfor %}
+
 
 <p>Thank you so your time!</p>
