@@ -13,9 +13,9 @@ permalink: /New
 <h2>Contact</h2>
 
 
-    <p>Phone Number: 123456678</p>
-    <p>Email: Violet@gmail.com</p>
-    <p>Address: 12234 Street</p>
+<p>Phone Number: 123456678</p>
+<p>Email: Violet@gmail.com</p>
+p<p>Address: 12234 Street</p>
 
 
   
