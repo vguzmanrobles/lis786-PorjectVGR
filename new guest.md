@@ -17,5 +17,5 @@ permalink: /New
 <p>Email: Violet@gmail.com</p>
 <p>Address: 12234 Street</p>
 
-
+<footer>Violet's Salon</footer>
   
