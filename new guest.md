@@ -9,4 +9,13 @@ permalink: /New
  <div class="cta">
   <button class="btn">Schedule Now</button>
 </div>
+
+<h2>Contact</h2>
+
+<ul>
+    <li>Phone Number: 123456678</li>
+    <li>Email: Violet@gmail.com</li>
+    <li>Address: 12234 Street</li>
+</ul>
+
   
