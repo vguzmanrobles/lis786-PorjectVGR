@@ -7,4 +7,4 @@ About Me
 
 Violet is a new hair sylist from Chicago, Illinois. She has loved to do hair since she was a child. She completed cosmetology school in December 2023. She is currently a apprentence hairstylist with Ashley. 
 
-![Violet](vguzmanrobles/lis786-PorjectVGR/IMG_2944.jpg)
+![Violet](IMG_2944.jpg)
