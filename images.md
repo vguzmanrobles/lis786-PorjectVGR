@@ -10,8 +10,4 @@ variable: Violet's Sweet Salon
 
 
 
-{% include page_header.html %}
 
-{{page.variable}}
-
-<footer>Violet's Salon</footer>
