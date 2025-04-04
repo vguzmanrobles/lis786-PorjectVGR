@@ -12,10 +12,10 @@ permalink: /New
 
 <h2>Contact</h2>
 
-<ul>
-    <li>Phone Number: 123456678</li>
-    <li>Email: Violet@gmail.com</li>
-    <li>Address: 12234 Street</li>
-</ul>
+
+    <p>Phone Number: 123456678</p>
+    <p>Email: Violet@gmail.com</p>
+    <p>Address: 12234 Street</p>
+
 
   
