@@ -1,7 +1,6 @@
 ---
 title: Images
 layout: page
-permalink: /New
 ---
 
 
