@@ -7,4 +7,4 @@ layout: page
 
 Images of hair done by Violet
 
-![Violet](_pictures/IMG_0565.jpg)
+![Violet](vguzmanrobles/lis786-PorjectVGR/_pictures/IMG_0565.jpg)
