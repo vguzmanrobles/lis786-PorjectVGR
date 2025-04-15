@@ -1,6 +1,6 @@
 ---
 title: Purple
 Category: Dye
-image: "C:\Users\vanes\OneDrive - Dominican University\spring2025\New folder\IMG_0565.jpg"
+image: https://photos.fife.usercontent.google.com/pw/AP1GczMrVOAY5fWFynNMeBUj7ruIMCoR8oWlbrkUtdoOPoGtG2se8yKutShAHw=w659-h878-s-no-gm?authuser=0
 ---
 
